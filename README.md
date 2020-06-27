@@ -35,13 +35,13 @@
 
 ### Use
 
-Clone this repo and navigate to it in your terminal
+Clone this repo and navigate to it in your terminal<br>
 
-To print out FizzBuzz 1 to 100...
+To print out FizzBuzz 1 to 100...<br>
 
 type 'open SpecRunner.hml' (see all tests passing, **beautifull!**)<br>
 open the Chrome dev tools console with 'option' + '⌘ / command' + 'J'<br>
-copy paste the code below and press enter<br>
+copy paste the code below and press 'enter'<br>
 
 ```
 javabuzz = new JavaBuzz();
@@ -58,5 +58,5 @@ Given more time with this project I will
 
 - [] Get a lint roller over this code<br>
 - [] Refactor this code<br>
-- [x] Make a beatuful README with proper markdownv formatting<br>
+- [x] Make a beatuful README with proper markdown formatting<br>
 - [] Code a fuction that prints FizzBuzz from 1 to x (argument given)<br>
