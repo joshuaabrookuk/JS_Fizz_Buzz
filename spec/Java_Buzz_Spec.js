@@ -16,7 +16,7 @@ describe('Java Buzz', function() {
     expect(javaBuzz.game(2)).toEqual(2);
   });
 
-  it('returns 2 when given 2', function() {
+  it('returns Fizz when given 3', function() {
     expect(javaBuzz.game(3)).toEqual('Fizz');
   });
 
