@@ -1,28 +1,32 @@
-Fizz Buzz in JS
+## FizzBuzz in JavaScript
 
-Plan:
+### Plan:
 
-<!-- input | output
-------+-------
-   1  |   1
-   2  |   2
-   3  |   "Fizz"
-   4  |   4
-   5  |   "Buzz"
-   6  |   "Fizz"
-   10 |   "Buzz"
-   15 |   "Fizz Buzz"
-   30 |   "Fizz Buzz" -->
-
-
-   | Input | Output |
+1.Create Input/ Output chart
+| Input | Output |
 | ----------- | ----------- |
 | 1 | 1 |
 | 2 | 2 |
 | 3 | Fizz |
+| 4 | 4 |
+| 5 | Buzz |
+| 6 | Fizz |
+| 10 | Buzz |
+| 15 | FizzBuzz |
+2.Set-up repo on github and clone
+3.Set-up project files Jasmine, README.md
+4.Follow the RED, GREEN, REFACTOR TTD process
+1.Create a failing test
+2.Pass the test in the simplist possible way
+3.Refactor if necessary
+8.Finish and reflect
+9.Update README
 
+### Use
 
-To print out FizzBuzz 1 to 100, in your termial...
+Clone this repo and navigate to it in your terminal
+
+To print out FizzBuzz 1 to 100
 
 type 'open SpecRunner.hml' (see all tests passing, beatuful!)
 open the Chrome dev tools console with 'option' + '⌘ / command' + 'J'
@@ -32,6 +36,8 @@ javabuzz = new JavaBuzz();
 for (var i = 1; i <= 100; i++) {
   console.log(javabuzz.game(i));
 }
+
+### Refelction
 
 Given more time with this project I will
 
