@@ -39,7 +39,7 @@ Clone this repo and navigate to it in your terminal
 
 To print out FizzBuzz 1 to 100...
 
-type 'open SpecRunner.hml' (see all tests passing, **beatuful!**)<br>
+type 'open SpecRunner.hml' (see all tests passing, **beautifull!**)<br>
 open the Chrome dev tools console with 'option' + '⌘ / command' + 'J'<br>
 copy paste the code below and press enter<br>
 
