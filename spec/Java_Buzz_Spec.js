@@ -20,4 +20,8 @@ describe('Java Buzz', function() {
     expect(javaBuzz.game(3)).toEqual('Fizz');
   });
 
+  it('returns Buzz when given 5', function() {
+    expect(javaBuzz.game(5)).toEqual('Buzz');
+  });
+
 });
