@@ -3,6 +3,14 @@
 ### Plan:
 
 1.Create Input/ Output chart
+2.Set-up repo on github and clone
+3.Set-up project files Jasmine, README.md
+4.Follow the RED, GREEN, REFACTOR TTD process
+1.Create a failing test
+2.Pass the test in the simplist possible way
+3.Refactor if necessary
+8.Finish and reflect
+9.Update README
 
 | Input | Output |
 | ----------- | ----------- |
@@ -14,15 +22,6 @@
 | 6 | Fizz |
 | 10 | Buzz |
 | 15 | FizzBuzz |
-
-2.Set-up repo on github and clone
-3.Set-up project files Jasmine, README.md
-4.Follow the RED, GREEN, REFACTOR TTD process
-1.Create a failing test
-2.Pass the test in the simplist possible way
-3.Refactor if necessary
-8.Finish and reflect
-9.Update README
 
 ### Use
 
