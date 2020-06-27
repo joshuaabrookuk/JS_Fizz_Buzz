@@ -3,13 +3,21 @@
 ### Plan:
 
 1.Create Input/ Output chart<br>
+
 2.Set-up repo on github and clone<br>
+
 3.Set-up project files Jasmine, README.md<br>
+
 4.Follow the RED, GREEN, REFACTOR TTD process<br>
-1.Create a failing test<br>
-2.Pass the test in the simplist possible way<br>
-3.Refactor if necessary<br>
+
+- Create a failing test<br>
+
+- Pass the test in the simplist possible way<br>
+
+- Refactor if necessary<br>
+
 8.Finish and reflect<br>
+
 9.Update README<br>
 
 
@@ -29,7 +37,7 @@
 
 Clone this repo and navigate to it in your terminal
 
-To print out FizzBuzz 1 to 100
+To print out FizzBuzz 1 to 100...
 
 type 'open SpecRunner.hml' (see all tests passing, beatuful!)
 open the Chrome dev tools console with 'option' + '⌘ / command' + 'J'
@@ -40,11 +48,20 @@ for (var i = 1; i <= 100; i++) {
   console.log(javabuzz.game(i));
 }
 
+```
+javabuzz = new JavaBuzz();
+for (var i = 1; i <= 100; i++) {
+  console.log(javabuzz.game(i));
+}
+```
+
+
+
 ### Refelction
 
 Given more time with this project I will
 
-Get a lint roller over this code
-Refactor this code
-Make a beatuful README with proper markdownv formatting
-Code a fuction that prints FizzBuzz from 1 to x (argument given)
+- [] Get a lint roller over this code<br>
+- [] Refactor this code<br>
+- [x] Make a beatuful README with proper markdownv formatting<br>
+- [] Code a fuction that prints FizzBuzz from 1 to x (argument given)<br>
