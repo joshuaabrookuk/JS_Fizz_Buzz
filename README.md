@@ -2,15 +2,15 @@
 
 ### Plan:
 
-1.Create Input/ Output chart
-2.Set-up repo on github and clone
-3.Set-up project files Jasmine, README.md
-4.Follow the RED, GREEN, REFACTOR TTD process
-1.Create a failing test
-2.Pass the test in the simplist possible way
-3.Refactor if necessary
-8.Finish and reflect
-9.Update README
+1.Create Input/ Output chart<br>
+2.Set-up repo on github and clone<br>
+3.Set-up project files Jasmine, README.md<br>
+4.Follow the RED, GREEN, REFACTOR TTD process<br>
+1.Create a failing test<br>
+2.Pass the test in the simplist possible way<br>
+3.Refactor if necessary<br>
+8.Finish and reflect<br>
+9.Update README<br>
 
 
 | Input | Output |
