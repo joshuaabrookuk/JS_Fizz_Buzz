@@ -24,4 +24,16 @@ describe('Java Buzz', function() {
     expect(javaBuzz.game(5)).toEqual('Buzz');
   });
 
+  it('returns Fizz when given 6', function() {
+    expect(javaBuzz.game(6)).toEqual('Fizz');
+  });
+
+  it('returns Buzz when given 10', function() {
+    expect(javaBuzz.game(10)).toEqual('Buzz');
+  });
+
+  it('returns FizzBuzz when given 15', function() {
+    expect(javaBuzz.game(15)).toEqual('FizzBuzz');
+  });
+
 });
