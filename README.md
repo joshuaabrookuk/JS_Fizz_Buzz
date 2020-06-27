@@ -2,13 +2,13 @@
 
 ### Plan:
 
-1.Create Input/ Output chart<br>
+1. Create Input/ Output chart<br>
 
-2.Set-up repo on github and clone<br>
+2. Set-up repo on github and clone<br>
 
-3.Set-up project files Jasmine, README.md<br>
+3. Set-up project files Jasmine, README.md<br>
 
-4.Follow the RED, GREEN, REFACTOR TTD process<br>
+4. Follow the RED, GREEN, REFACTOR TTD process<br>
 
 - Create a failing test<br>
 
@@ -16,9 +16,9 @@
 
 - Refactor if necessary<br>
 
-8.Finish and reflect<br>
+5. Finish and reflect<br>
 
-9.Update README<br>
+6. Update README<br>
 
 
 | Input | Output |
@@ -39,14 +39,9 @@ Clone this repo and navigate to it in your terminal
 
 To print out FizzBuzz 1 to 100...
 
-type 'open SpecRunner.hml' (see all tests passing, beatuful!)
-open the Chrome dev tools console with 'option' + '⌘ / command' + 'J'
-copy paste the code below and press enter
-
-javabuzz = new JavaBuzz();
-for (var i = 1; i <= 100; i++) {
-  console.log(javabuzz.game(i));
-}
+type 'open SpecRunner.hml' (see all tests passing, **beatuful!**)<br>
+open the Chrome dev tools console with 'option' + '⌘ / command' + 'J'<br>
+copy paste the code below and press enter<br>
 
 ```
 javabuzz = new JavaBuzz();
