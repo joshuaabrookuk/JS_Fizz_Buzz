@@ -2,7 +2,7 @@ Fizz Buzz in JS
 
 Plan:
 
-input | output
+<!-- input | output
 ------+-------
    1  |   1
    2  |   2
@@ -12,7 +12,14 @@ input | output
    6  |   "Fizz"
    10 |   "Buzz"
    15 |   "Fizz Buzz"
-   30 |   "Fizz Buzz"
+   30 |   "Fizz Buzz" -->
+
+
+   | Input | Output |
+| ----------- | ----------- |
+| 1 | 1 |
+| 2 | 2 |
+| 3 | Fizz |
 
 
 To print out FizzBuzz 1 to 100, in your termial...
